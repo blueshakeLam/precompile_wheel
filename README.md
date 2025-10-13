@@ -10,3 +10,6 @@ https://github.com/FindDefinition/cumm
 
 spconv
 https://github.com/traveller59/spconv/
+
+nvdiffrast
+https://github.com/NVlabs/nvdiffrast
