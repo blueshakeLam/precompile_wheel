@@ -17,3 +17,6 @@ https://github.com/NVlabs/nvdiffrast
 vllm
 https://github.com/YYuX-1145/vllm-windows/tree/0.10.2-fix
 https://github.com/SystemPanic/vllm-windows
+
+block_sparse_att:
+https://github.com/smthemex/Block-Sparse-Attention
